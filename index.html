@@ -182,11 +182,11 @@
 <main>
 
 <section class="logo">
-  <img src="/assets/share.svg?v=66fc42b1">
+  <img src="share.svg">
 </section>
 
 <section class="logo bc">
-  <a href="https://blackcube.art"><img src="/assets/bc.svg?v=66fc4765"></a>
+  <a href="https://blackcube.art"><img src="bc.svg"></a>
 </section>
 
   <section class="overlay">
@@ -433,7 +433,7 @@
 
 var map = new maplibregl.Map({
         container: 'map',
-        style: '/assets/style.json',
+        style: 'style.json',
         center: [-104.972731, 39.742043],
         zoom: 13,
         maplibreLogo: false,
@@ -445,7 +445,7 @@ var map = new maplibregl.Map({
         const image = await map.loadImage('https://maplibre.org/maplibre-gl-js/docs/assets/osgeo-logo.png');
         map.addImage('custom-marker', image.data);
 
-        const response = await fetch('/assets/SHARE.geojson');
+        const response = await fetch('SHARE.geojson');
         const geojson = await response.json();
 
         map.addSource('points', {
