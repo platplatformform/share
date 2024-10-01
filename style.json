@@ -27,7 +27,7 @@
     }
   },
   "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
-  "glyphs": "/font/{fontstack}/{range}.pbf",
+  "glyphs": "/share/font/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
