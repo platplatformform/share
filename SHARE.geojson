@@ -1,0 +1,277 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo0NWQ1YTQwOC01MzQ3LTQ4ZDUtOTQ4NC02YzNlYzE0MzE1NTY",
+        "place_name": "2500 Larimer Street, Denver, Colorado 80205, United States",
+        "num": 16
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986171,
+          39.757618
+        ],
+        "type": "Point"
+      },
+      "id": "0736a4f47d8f21495455213033b5a578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1NTBhNjIwNC1mN2QyLTRjNzEtOTVmOC0wZGZiYjMyNDgzMzA",
+        "place_name": "1025 13th Street, Denver, Colorado 80204, United States",
+        "num": 12
+      },
+      "geometry": {
+        "coordinates": [
+          -104.998451,
+          39.744686
+        ],
+        "type": "Point"
+      },
+      "id": "122d2944475a4682cf563316abe41261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpjMDMzNzRjMC1hNTYyLTQ3MDYtYTg5Ni1hNWRiZDBiYTFkYjk",
+        "place_name": "127 East 20th Avenue, Denver, Colorado 80205, United States",
+        "num": 3
+      },
+      "geometry": {
+        "coordinates": [
+          -104.984867,
+          39.747752
+        ],
+        "type": "Point"
+      },
+      "id": "1cd5c7f054769c8ba9c72ff3d05ac4b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5ZTM3NzIyYi1jNjA5LTRlYjctYTNkMy04ODRhNjQwNWQ2MjE",
+        "place_name": "2715 West 8th Avenue, Denver, Colorado 80204, United States",
+        "num": 7
+      },
+      "geometry": {
+        "coordinates": [
+          -105.020813,
+          39.729558
+        ],
+        "type": "Point"
+      },
+      "id": "1e4c344957e6dd4d131756761fffacfb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKMlpYSnphVzl1SWpvMUxDSmpZV3hzWW1GamF5STZiblZzYkN3aWNTSTZJakV5TURVZ01UQjBhQ0JUZENCUWJHRjZZU3dnUkdWdWRtVnlMQ0JEVHlBNE1ESXdOQ0o5OjA",
+        "place_name": "1205 10th Street, Denver, Colorado 80204, United States",
+        "num": 11
+      },
+      "geometry": {
+        "coordinates": [
+          -105.003555,
+          39.743153
+        ],
+        "type": "Point"
+      },
+      "id": "212d5e68ba5f4a53e3fa7d2501b1aaec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMDY1YWQwNC1lNTYzLTQ3MWEtYjMzOC01Njg3Y2Q1MDVmYmM",
+        "place_name": "1543 Wazee Street, Denver, Colorado 80202, United States",
+        "num": 10
+      },
+      "geometry": {
+        "coordinates": [
+          -105.000803,
+          39.751021
+        ],
+        "type": "Point"
+      },
+      "id": "281e02ea6d4a722c03cc8d2a0abae967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo4MDBhYTM5MS01OTQ2LTRjMjQtOGJiNC0yYWExNjM2OWYzYjU",
+        "place_name": "1465 Delgany Street, Denver, Colorado 80202, United States",
+        "num": 6
+      },
+      "geometry": {
+        "coordinates": [
+          -105.00434,
+          39.75211
+        ],
+        "type": "Point"
+      },
+      "id": "498a9d0287fd8b6bcc6cc529645aad07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo1ZTc5MjZjNC1iMDczLTQ0ZDEtOTE1OS1lODgyN2U3NDkyMmQ",
+        "place_name": "2528 Walnut Street, Denver, Colorado 80205, United States",
+        "num": 8
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986518,
+          39.758546
+        ],
+        "type": "Point"
+      },
+      "id": "4e9ee0734f3d9a27efebcc6a0bcff82d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjphYTIxMzU2OC03OGNhLTRhNTQtOWIwZS0zYzFkODEzYzg0ZjU",
+        "place_name": "2701 West Colfax Avenue, Denver, Colorado 80204, United States",
+        "num": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -105.020695,
+          39.74025
+        ],
+        "type": "Point"
+      },
+      "id": "588fd3970e379ebdb55772ec3973e8ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpmNWY1YzE4OC04MzJhLTQ1OTktYTc0Mi03OWE4Y2NmODcxNjM",
+        "place_name": "861 Santa Fe Drive, Denver, Colorado 80204, United States",
+        "num": 13
+      },
+      "geometry": {
+        "coordinates": [
+          -104.998986,
+          39.730052
+        ],
+        "type": "Point"
+      },
+      "id": "8da9a9d27153ffc58a3ee8007613e123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjozY2Y3MDUwZC01OTAyLTRlMDgtYjZkOS01OTJmMjdiYTM5NDA",
+        "place_name": "2510 East Colfax Avenue, Denver, Colorado 80206, United States",
+        "num": 15
+      },
+      "geometry": {
+        "coordinates": [
+          -104.957012,
+          39.739881
+        ],
+        "type": "Point"
+      },
+      "id": "bc39c1871be39a6008bc26172faedb0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo2MWM2ZjU4Ni1iNWIwLTQ5OTgtYWRhNi02MDcyNzlmNTUzM2M",
+        "place_name": "4496 Grant Street, Denver, Colorado 80216, United States",
+        "num": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -104.983267,
+          39.778143
+        ],
+        "type": "Point"
+      },
+      "id": "becd21514cf2e34ef2cdc4cc7e9aea50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5ZjYxYzhmZi1kOGMxLTRhOWYtYjE3NC1kNWNlMjljOGUwMGU",
+        "place_name": "2500 Walnut Street, Denver, Colorado 80205, United States",
+        "num": 14
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986853,
+          39.758334
+        ],
+        "type": "Point"
+      },
+      "id": "c4826c59447bf7cec500660cb79e88f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjowN2MzMzJlNC1jZDY4LTQ2MmUtOGE2ZS02NWM2YzNjYWM2OGE",
+        "place_name": "220 South Dahlia Street, Denver, Colorado 80246, United States",
+        "num": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -104.931335,
+          39.712546
+        ],
+        "type": "Point"
+      },
+      "id": "c75a88481a927150ca40be0321a8d2f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo0Mzg4YzdmZi0yY2UzLTRjZDQtYWY5MC1lOWQyMzRiZDI2Zjg",
+        "place_name": "2323 East Iliff Avenue, Denver, Colorado 80210, United States",
+        "num": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -104.960369,
+          39.675862
+        ],
+        "type": "Point"
+      },
+      "id": "c820bb585df4b9dc29e80d20c0c598ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpkOTA5MTQyNC04MjBlLTQyNjYtOWViZi04ODM3YmU2N2ExNzU",
+        "place_name": "2350 Arapahoe Street, Denver, Colorado 80205, United States",
+        "num": 9
+      },
+      "geometry": {
+        "coordinates": [
+          -104.986168,
+          39.754874
+        ],
+        "type": "Point"
+      },
+      "id": "dde1ec23b5d888a5a629b4bf873ce69c"
+    }
+  ],
+  "type": "FeatureCollection"
+}
